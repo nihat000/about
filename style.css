@@ -1,0 +1,5 @@
+section#about{
+    background-color: #4E6C50;
+}
+
+.line {display: inline-block;width: 80px; height: 2px;background-color: #eee;}
